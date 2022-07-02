@@ -8,6 +8,7 @@ This are the areas in which I look to get really good, to excel as a developer
 
 ### Modern Technologie:
 This means modern to me. Many of these technologies are not even very new, but they're an upgrade and new to me, and they focus on quality of life, or performance improvement, or greater automation. This list will be every updating as I technology and my skills progress
+- VS Code Editor: Most power developers recommend this TE. and I know it has some powerful features, so I need to do a TE overhaul
 - Typescript: For greater browser compatibility, as well as better debugging, and cleaner live environment
 - Vite: For faster, leaner compiling, as opposed to webstorm, or other more dated technologies.
 - Garbage collection: Understanding memory efficiency for better performance.
